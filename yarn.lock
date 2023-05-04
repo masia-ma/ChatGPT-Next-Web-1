@@ -1111,14 +1111,9 @@
   dependencies:
     "glob" "7.1.7"
 
-"@next/swc-linux-x64-gnu@13.3.1-canary.8":
-  "integrity" "sha512-vNbFDiuZ9fWmcznlilDbflZLb04evWPUQlyDT7Tqjd964PlSIaaX3tr64pdYjJOljDaqTr2Kbx0YW74mWF/PEw=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-13.3.1-canary.8.tgz"
-  "version" "13.3.1-canary.8"
-
-"@next/swc-linux-x64-musl@13.3.1-canary.8":
-  "integrity" "sha512-/FVBPJEBDZYCNraocRWtd5ObAgNi9VFnzJYGYDYIj4jKkFRWWm/CaWu9A7toQACC/JDy262uPyDPathXT9BAqQ=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-13.3.1-canary.8.tgz"
+"@next/swc-win32-x64-msvc@13.3.1-canary.8":
+  "integrity" "sha512-UKrGHonKVWBNg+HI4J8pXE6Jjjl8GwjhygFau71s8M0+jSy99y5Y+nGH9EmMNWKNvrObukyYvrs6OsAusKdCqw=="
+  "resolved" "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-13.3.1-canary.8.tgz"
   "version" "13.3.1-canary.8"
 
 "@nodelib/fs.scandir@2.1.5":
